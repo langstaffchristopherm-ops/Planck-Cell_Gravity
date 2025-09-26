@@ -40,6 +40,8 @@ If your TeX distribution lacks packages, install common ones (e.g. `hyperref`, `
 - Langstaff, C. M. (2025). *Planck-Cell Kinematics* (Zenodo). DOI: 10.5281/zenodo.17168478  
 - Langstaff, C. M. (2025). *Planck-Cell Mass* (Zenodo). DOI: 10.5281/zenodo.17209646
 
+https://doi.org/10.5281/zenodo.17210232
+
 ## License
 
 Unless otherwise stated (e.g., a `LICENSE` file), the LaTeX is released under a permissive license by the author.
