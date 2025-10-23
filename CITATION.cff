@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Planck-Cell Gravity"
+abstract: >
+  Derives gravitational potential as curvature of the tick-rate field within
+  the Planck-Cell S/t framework. Shows recovery of Newtonian and weak-field
+  limits from temporal dilation alone, relating adjacency curvature to mass
+  distribution via Δτ-dependent redshift. Demonstrates quantitative agreement
+  with low-field General Relativity. Repository contains release PDF and LaTeX
+  source.
+
+authors:
+  - family-names: "Langstaff"
+    given-names: "Christopher Michael"
+
+version: "v2.0.3"
+date-released: "2025-10-23"
+repository-code: "https://github.com/langstaffchristopherm-ops/Planck-Cell_Gravity"
+url: "https://github.com/langstaffchristopherm-ops/Planck-Cell_Gravity"
+license: "CC-BY-4.0"
+
+doi: "10.5281/zenodo.17428323"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17210232"
+
+preferred-citation:
+  type: article
+  title: "Planck-Cell Gravity"
+  authors:
+    - family-names: "Langstaff"
+      given-names: "C."
+  year: 2025
+  doi: "10.5281/zenodo.17428323"
+  url: "https://doi.org/10.5281/zenodo.17428323"
+  journal: "Zenodo"
