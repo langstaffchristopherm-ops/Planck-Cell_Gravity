@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Planck-Cell Gravity"
+abstract: >
+  Derives gravitational curvature and redshift as emergent consequences
+  of tick-rate gradients within the discrete S/t substrate.
+  Demonstrates equivalence between inertial and gravitational delay,
+  reproduces the weak-field metric expansion, and links potential energy
+  to local tick-rate distortion. Repository contains the release PDF
+  and LaTeX source.
+
+authors:
+  - family-names: "Langstaff"
+    given-names: "Christopher Michael"
+
+version: "v2.0.2"
+date-released: "2025-10-22"
+repository-code: "https://github.com/langstaffchristopherm-ops/Planck-Cell_Gravity"
+url: "https://github.com/langstaffchristopherm-ops/Planck-Cell_Gravity"
+license: "CC-BY-4.0"
+
+# VERSION DOI (this release)
+doi: "10.5281/zenodo.17421551"
+
+# CONCEPT DOI (stable root)
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17210232"
+
+preferred-citation:
+  type: article
+  title: "Planck-Cell Gravity"
+  authors:
+    - family-names: "Langstaff"
+      given-names: "C."
+  year: 2025
+  doi: "10.5281/zenodo.17421551"
+  url: "https://doi.org/10.5281/zenodo.17421551"
+  journal: "Zenodo"
